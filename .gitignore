@@ -1,3 +1,9 @@
 build
 .gradle
 .nb-gradle
+
+# java lsp env
+.settings
+.classpath
+.project
+bin

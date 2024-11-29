@@ -22,6 +22,7 @@ omegat {
 dependencies {
     implementation("commons-io:commons-io:2.7")
     implementation("commons-lang:commons-lang:2.6")
+    implementation("org.apache.commons:commons-lang3:3.6")
 }
 
 
