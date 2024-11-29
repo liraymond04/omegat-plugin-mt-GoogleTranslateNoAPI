@@ -10,7 +10,7 @@ repositories {
     mavenLocal()
 }
 
-version = "1.1.2"
+version = "1.1.3"
 
 omegat {
     version = "6.0.0"
